@@ -13,8 +13,7 @@ public interface MultiGraphADT {
 	/**
 	 * This method removes a node specified by the input parameter 
 	 * from the list. 
-	 * This method removes a node object from a list by appending it
-	 * to the end of the list
+	 * 
 	 * 
 	 * @param node a node object to be removed from a list. 
 	 */
